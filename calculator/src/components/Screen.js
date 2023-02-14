@@ -1,14 +1,12 @@
 import { Textfit } from "react-textfit";
-import "./Screen";
+import "./Screen.css";
 
-const Screen = ({value}) => {
+const Screen = ({ value }) => {
   return (
-    <div className="screen">
-      <Textfit mode="single" max={36}>
-        {value}
-      </Textfit>
-    </div>
+    <Textfit className="screen" mode="single" max={70}>
+      {value}
+    </Textfit>
   );
-}
+};
 
 export default Screen;
