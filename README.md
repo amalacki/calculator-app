@@ -1,42 +1,43 @@
-#Calculator App
+# Calculator App
 
 This is a simple calculator app built with React that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-##Requirements
+## Requirements
 
 Node.js
 npm
-Getting Started
 
-##Clone the repository:
+## Getting Started
+
+### Clone the repository:
 bash
 Copy code
 git clone https://github.com/[your-username]/calculator-app.git
 
-##Install the dependencies:
-Copy code
-npm install
+### Install the dependencies:
+Copy code. 
+npm install. 
 
-##Start the development server:
+### Start the development server:
 sql
 Copy code
 npm start
-The app will be running at http://localhost:3000/.
+The app will be running at http://localhost:3000/
 
-##Features
+### Features
 Basic arithmetic operations: addition, subtraction, multiplication, and division
 Clean and user-friendly interface
 Tech Stack
 
-React
-JavaScript
-CSS
+React,
+JavaScript,
+CSS,
 HTML
 
-Contributing
+### Contributing
 If you want to contribute to this project, please follow these steps:
 
-Fork the repository
-Create a new branch with a descriptive name
-Make your changes
-Submit a pull request
+Fork the repository,
+Create a new branch with a descriptive name,
+Make your changes,
+Submit a pull request.
